@@ -1,10 +1,9 @@
 # CForBeginners
 ##All from youtube video C Programming for Beginners by Giraffe Acadamy
+###all examples from youtube video C Programming Tutorial for Beginners
 
 #include <stdio.h>
 #include <stdlib.h>
-
-###all examples from youtube video C Programming Tutorial for Beginners
 
 //making a shape
 int main()
